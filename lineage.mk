@@ -39,5 +39,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-bq
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT=bq/chaozulite/chaozulite:7.1.2/NMF26F/1514976657:user/release-keys \
-    PRIVATE_BUILD_DESC="chaozulite-user 7.1.2 NMF26F 2.7.0_20180103-1148 release-keys"
+    BUILD_FINGERPRINT=bq/chaozulite/chaozulite:7.1.2/NMF26F/1109:user/release-keys \
+    PRIVATE_BUILD_DESC="chaozulite-user 7.1.2 NMF26F 1109 release-keys"
