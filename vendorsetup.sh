@@ -1,0 +1,3 @@
+add_lunch_combo lineage_chaozulite-userdebug
+add_lunch_combo lineage_chaozulite-user
+add_lunch_combo lineage_chaozulite-eng
